@@ -46,7 +46,7 @@ This architecture ensures high availability, fault tolerance, scalability, and s
 
 
 ### Architect Diagram
-![Architect-Diagram](/imgs/architect-overview.jpg)
+![Architect-Diagram](./assets/architect-overview.jpg)
 
 
 ### ⚙️ How to Deploy
